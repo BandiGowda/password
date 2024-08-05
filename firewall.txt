@@ -1,0 +1,4 @@
+1.go to control panel
+2.select system and security
+3.click windows detender firewall/windows firewall
+4.select the left side turn windows defender firewall  on or off
