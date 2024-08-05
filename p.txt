@@ -1,0 +1,6 @@
+1.Go to control panel
+2.select user account
+3.double tap to change account type
+4.double tap to account
+5.select the change the password
+6.enter the current password and set the new oassword / optional enter the hint
